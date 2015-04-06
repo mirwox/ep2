@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+
 """
 Projeto base para Exercício Programa de Software Design
 @author: mirwox
